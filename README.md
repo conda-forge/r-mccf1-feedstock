@@ -1,11 +1,11 @@
-About r-mccf1
-=============
+About r-mccf1-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mccf1-feedstock/blob/main/LICENSE.txt)
 
 Home: https://bitbucket.org/hoffmanlab/mccf1/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mccf1-feedstock/blob/main/LICENSE.txt)
 
 Summary: The MCC-F1 analysis is a method to evaluate the performance of binary classifications. The MCC-F1 curve is more reliable than the Receiver Operating Characteristic (ROC) curve and the Precision-Recall (PR)curve under imbalanced ground truth. The MCC-F1 analysis also provides the MCC-F1 metric that integrates classifier performance over varying thresholds, and the best threshold of binary classification.
 
